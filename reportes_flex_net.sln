@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "D:\reportes_flex_net\", ".", "{ABF0C1C0-7F75-4C8D-90ED-775B6B45B267}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/reportes_flex_net"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\reportes_flex_net\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\reportes_flex_net\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/reportes_flex_net"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\reportes_flex_net\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\reportes_flex_net\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53279"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF0C1C0-7F75-4C8D-90ED-775B6B45B267}.Debug|.NET.ActiveCfg = Debug|.NET
+		{ABF0C1C0-7F75-4C8D-90ED-775B6B45B267}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
